@@ -26,7 +26,7 @@ public class findgreaternum {
             System.out.println(c+" is greater number");
         }
         
-
+        sc.close();
     }
     
 }
