@@ -19,6 +19,7 @@ public class ascinarr {
       Arrays.sort(a);
       
       System.out.println("Sorted array in ascending order"+Arrays.toString(a));
+      sc.close();
     }
     
 }
